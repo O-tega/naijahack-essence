@@ -17,4 +17,4 @@ Bars of unemployment and stalls creation of new jobs opportunities.
 A platform that will provide a structured learning and working environment 
 To train individuals based on certain criteria and assessments and also provide facilities 
 To connect individual as to create a virtual working space as well as a virtual company where they 
-Can interact with clients to build solutions. 
+Can interact with clients to build business solutions. 
