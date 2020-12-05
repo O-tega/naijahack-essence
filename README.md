@@ -1,7 +1,9 @@
 # naija hackathon 2019
 # Team Essence
 ### Team members
-- Igho Powell oghenetega 
+- Samuel omolade
+samuelfemi85@gmail.com
+- Igho  Powell oghenetega 
 Tega.myview@gmail.com
 - omolayo Clement
 Naijawebmaster@gmail.com
